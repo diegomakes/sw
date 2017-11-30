@@ -3,7 +3,7 @@
 		<FrameImage FileName="XAJH\窗口面板\大底板透明.dds"/>
 	</Resource>
 	<LABEL Name="Title" x="30" y="8">
-		<Text String="Close Smart Match Panel" FontName="字体一" FontSize="14" FadeColor="true" TextUpperColor="254,250,239,255" TextLowerColor="254,208,146,255"/>
+		<Text String="Fechar painel de partida inteligente" FontName="字体一" FontSize="14" FadeColor="true" TextUpperColor="254,250,239,255" TextLowerColor="254,208,146,255"/>
 	</LABEL>
 	<STILLIMAGEBUTTON Name="Btn_Close" x="313" y="7" Width="20" Height="20">
 		<Hint String="Close Smart Match Panel"/>
@@ -15,7 +15,7 @@
 		</Resource>
 	</STILLIMAGEBUTTON>
 	<LABEL Name="Control_Lab_1" x="18" y="40" Width="80" Height="20">
-		<Text String="Match Settings" FontName="字体一" FontSize="12" Color="254,208,146,255"/>
+		<Text String="partida Settings" FontName="字体一" FontSize="12" Color="254,208,146,255"/>
 	</LABEL>
 	<EDIT Name="Control_Edt_Back1" x="17" y="61" Width="318" Height="60" ReadOnly="true">
 		<Text FontName="字体一" FontSize="15"/>
@@ -25,7 +25,7 @@
 	</EDIT>
 	<CHECK Name="Chk_IsDiffProf" x="28" y="71" Width="298" Height="15" Align="2" TextOffsetX="10">
 		<Hint String="Verifique se juntar a uma equipe de escolas que\rsão diferentes do seu próprio. \rEsta opção é recomendada para instâncias\r com o espadachim e o herói\rdificuldades onde a engrenagem específica da escola é abandonada."/>
-		<Text String="Different Schools" FontName="字体一" FontSize="12" FadeColor="true" TextLowerColor="255,230,153,255"/>
+		<Text String="Escolas diferentes" FontName="字体一" FontSize="12" FadeColor="true" TextLowerColor="255,230,153,255"/>
 		<Resource>
 			<NormalImage FileName="XAJH\通用\复选按钮普通.tga"/>
 			<CheckedImage FileName="XAJH\通用\复选按钮选中.tga"/>
